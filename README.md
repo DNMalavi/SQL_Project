@@ -4,11 +4,15 @@
 **Course**: Data Science September 2024  
 
 ## Project Description
-This project, titled *Maji Ndogo: Data-Driven Journey From Analysis to Action*, leverages Structured Query Language (SQL) to extract meaningful insights from a fictious dataset related to water resource management. The primary goal is to analyze the data and deliver actionable insights using SQL queries and advanced data manipulation techniques.
+This project demonstrates the power of Structured Query Language (SQL) in addressing global challenges related to water resource management, specifically targeting UN Sustainable Development Goal 6 (Clean Water and Sanitation). Using a fictitious dataset that simulates real-world water issues, the project analyzes key metrics to provide actionable insights for improving access to safe and sustainable water sources.
 
-The project includes key SQL operations such as data querying, filtering, sorting, aggregation, complex joins, subqueries, and transactions. It also covers database design concepts like creating tables, data manipulation language, and optimizing queries for performance. Through these techniques, the project highlights how SQL can be leveraged to deliver data-driven decisions in resource management.
+Key objectives include:
 
-This SQL project serves as both an educational resource and a practical example of applying SQL to a real-world dataset, with the goal of providing valuable insights for decision-making.
+Analyzing Access to Safe Water: Evaluating patterns in water availability, queue times, and quality indicators to identify areas needing urgent intervention.
+Improving Water Resource Efficiency: Highlighting opportunities to optimize water distribution and reduce waste or pollution.
+The project showcases essential SQL operations, including data querying, filtering, sorting, aggregation, complex joins, subqueries, and transactions. Additionally, it integrates database design principles, such as creating and optimizing tables and improving query performance. These techniques emphasize SQL’s role in deriving actionable insights for policy makers, community leaders, and other stakeholders.
+
+By bridging data analysis with decision-making, this project serves as an educational resource and a practical example of how data-driven strategies can help achieve SDG 6 targets. It reinforces the importance of leveraging technology to ensure access to clean water and effective resource management in underserved regions like Maji Ndogo.
 
 ## Key Features
 - **Database Connection**: Establishing connection to a MySQL database.
