@@ -20,6 +20,7 @@ This SQL project serves as both an educational resource and a practical example 
 - **SQL**: Structured Query Language for querying and manipulating the database.
 - **MySQL**: Database management system used for storing and managing data.
 - **Jupyter Notebook**: Used for interactive SQL querying and presenting the results in a readable format.
+- Here is the link for the HTML file/github page: https://dnmalavi.github.io/SQL_Project/ 
   
 ## Contributions
 - Feel free to fork this project and submit pull requests if you'd like to contribute or improve the project.
